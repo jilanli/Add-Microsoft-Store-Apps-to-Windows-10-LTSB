@@ -4,6 +4,6 @@ To install the prerequisites for AppInstaller run the "AppInstaller.ps1" PowerSh
 
 To add store Apps you will need to download the required "appxbundle" file. 
 
-For example to install "Photos" app you can either double click on it after installing the prerequisites or run the command below in PowerShell.
+For example to install "Photos" app you can either double click on the "appxbundle" file after installing the prerequisites or run the command below in PowerShell, replacing Microsoft.Windows.Photos.appxbundle with the correct file name. 
 
-  - Add-AppxPackage -Path "*Microsoft.Windows.Photos_2017.35063.44410.0_neutral___8wekyb3d8bbwe.appxbundle"
+  - Add-AppxPackage -Path "*Microsoft.Windows.Photos.appxbundle"
