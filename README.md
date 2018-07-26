@@ -1,5 +1,4 @@
-# Add Microsoft Store Apps to Windows 10 LTSB
-Add Microsoft Store Apps to Windows 10 LTSB without the Microsoft Store
+# Add Microsoft Store Apps to Windows 10 LTSB without the Microsoft Store
 
 To install the prerequisites for AppInstaller run the "AppInstaller.ps1" PowerShell script with a user account that has elevated privileges.
 
